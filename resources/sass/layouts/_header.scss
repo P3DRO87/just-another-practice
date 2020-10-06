@@ -1,0 +1,34 @@
+.navbar {
+  box-shadow: 0 0 17px;
+}
+.stupid-img {
+  max-width: 55px;
+}
+.loader {
+  margin-top: 10%;
+}
+
+.text-info {
+  padding-inline-start: 0px;
+}
+
+.stupid-img-v2 {
+  max-width: 70px;
+}
+
+#vueApp {
+  overflow: hidden;
+}
+
+.main-title {
+  font-size: 1.3rem;
+  text-decoration: none;
+  p {
+    font-size: 0.9rem !important;
+    text-align: end !important;
+    text-decoration: none;
+    &:hover {
+      text-decoration: none !important;
+    }
+  }
+}

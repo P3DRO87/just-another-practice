@@ -1,0 +1,19 @@
+.footer .text-center {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto; }
+
+@media only screen and (max-width: 991px) {
+  .footer .contact-col {
+    margin-top: 45px;
+    justify-content: center !important; } }
+
+.footer .blaze87-github-icon {
+  font-size: 35px;
+  transition: ease 0.5s;
+  color: #6c757d; }
+  .footer .blaze87-github-icon:hover {
+    transition: ease 0.5s;
+    color: #fff;
+    font-size: 36px;
+    transform: translateY(-6px); }

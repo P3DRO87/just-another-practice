@@ -1,0 +1,50 @@
+.navbar {
+  box-shadow: 0 0 17px; }
+
+.stupid-img {
+  max-width: 55px; }
+
+.loader {
+  margin-top: 10%; }
+
+.text-info {
+  padding-inline-start: 0px; }
+
+.stupid-img-v2 {
+  max-width: 70px; }
+
+#vueApp {
+  overflow: hidden; }
+
+.main-title {
+  font-size: 1.3rem;
+  text-decoration: none; }
+  .main-title p {
+    font-size: 0.9rem !important;
+    text-align: end !important;
+    text-decoration: none; }
+    .main-title p:hover {
+      text-decoration: none !important; }
+
+.main {
+  min-height: calc(100vh - 87.61px - 84.35px); }
+
+.footer .text-center {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto; }
+
+@media only screen and (max-width: 991px) {
+  .footer .contact-col {
+    margin-top: 45px;
+    justify-content: center !important; } }
+
+.footer .blaze87-github-icon {
+  font-size: 35px;
+  transition: ease 0.5s;
+  color: #6c757d; }
+  .footer .blaze87-github-icon:hover {
+    transition: ease 0.5s;
+    color: #fff;
+    font-size: 36px;
+    transform: translateY(-6px); }
